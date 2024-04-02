@@ -2,4 +2,18 @@
 
 
 -------
-# Project Objective :
+# Project Objective :Problem Statement
+
+
+-------
+# Data Sourcing
+
+
+
+-------
+# Data Transformation
+
+
+
+-------
+# Findings And Recommendations
